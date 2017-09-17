@@ -1,0 +1,2 @@
+// Z plus S(S(Z)) is S(S(Z))
+Z plus S(S(Z)) is S(S(Z)) by P-Zero {};
