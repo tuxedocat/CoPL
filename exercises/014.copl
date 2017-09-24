@@ -1,0 +1,6 @@
+// S(S(Z)) is less than S(S(S(S(S(Z))))) under CompareNat3
+S(S(Z)) is less than S(S(S(S(S(Z))))) by L-SuccR {
+  S(S(Z)) is less than S(S(S(S(Z)))) by L-SuccR {
+    S(S(Z)) is less than S(S(S(Z))) by L-Succ{};
+  }
+}
